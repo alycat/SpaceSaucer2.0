@@ -1,0 +1,4 @@
+﻿  Game.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Asteroid.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  DirectX11_Starter.vcxproj -> C:\Users\Alyssa\Documents\RestartDirectX11\DirectX11\DirectX11_Starter\Debug\DirectX11_Starter.exe
